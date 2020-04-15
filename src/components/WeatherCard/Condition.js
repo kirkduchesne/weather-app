@@ -9,6 +9,7 @@ const Condition = (props) => {
   const Condition = styled.h2`
     font-family: "Merriweather Sans", sans-serif;
     font-size: 1.6rem;
+    text-align: center;
   `;
 
   return (
